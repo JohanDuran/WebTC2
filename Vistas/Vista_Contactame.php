@@ -18,16 +18,15 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
-			<h1 class="center">Contacto</h1>
+			<h1 class="center">Información de contacto</h1>
 			<section class="border-shadaw">
-			<h4>
-				<ul>
-					<li> <b>Correo:</b> Johan.durancerdas@gmail.com</li>
-					<li> <b>Celular:</b> 8443-1212</li>
-					<li> <b> Fax:</b> 2244-1234</li>
-					<li><b> Código postal:</b> 22322</li>
-				</ul>
-			</h4>
+				<h4>Servicio 24/7</h4>
+					<ul>
+						<li> <b>Correo:</b> Johan.durancerdas@gmail.com</li>
+						<li> <b>Celular:</b> 8443-1212</li>
+						<li> <b> Fax:</b> 2244-1234</li>
+						<li><b> Código postal:</b> 22322</li>
+					</ul>
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">
