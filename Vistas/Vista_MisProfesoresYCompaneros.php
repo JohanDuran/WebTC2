@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,10 +18,13 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+			<h1 class="center">Mis profesores y compañeros</h1>
 			<section class="border-shadaw">
+				<h4>
 					Durante los tres años presente en la institución e tenido la dicha de compartir con excelentes personas tanto compañeros como profesor.  <br>En un inicio tuve la dicha de encontrarme con un excelente profesor de mate, Granera. Dicha ya que traía una pesima base matemática del colegio, y fue gracias a su gran esfuerzo que superé con exito las primeras mates de la carrera en las cuales el fue profesor. Posteriormente con el profesor Leiner en cálculo I el cual fue también un excelente profesor, de calculo II me reservo comentarios :D. <br> Inicié la carrera con la profesora Josefina, una señora con basta experiencia y conocimiento, donde aprendí las bases de la programación. Algo que agradezco inmensamente a la profesora Josefina es su manera implicita de enseñar los principios de recursividad. Luego, gracias al profe Javier complete gran parte del conocimiento en programación. <br>
 					Fue hasta ensamblador donde tuve la dicha de ser alumno de Villa, sin duda alguna mí profesor favorito, en conjunto con la profesora Elka, los cuales tienen una gran dedicación para sus alumnos, se actualizan constantemente y en terminos generales ser alumnos de ellos marca tanto un antes como un después.	<br>
 					He tenido compañeros constantes durante gran parte de la carrera, entre ellos Kenneth con el cual programo todos los proyectos, Isabel, Andreina, Jose entre otros.
+				</h4>
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">

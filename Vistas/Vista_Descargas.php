@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,13 +18,16 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+			<h1 class="center">Descargas</h1>
 			<section class="border-shadaw">
-				En esta sección puede realizar distintas descargas de material academico <br>
-				<ul>
+				<h4>
+					En esta sección puede realizar distintas descargas de material academico <br>
+					<ul>
 						<li> <a href="Archivos/connect_esp.ino" download>Código prueba conexión módulo wifi esp8266</a></li>
-					<li> <a href="Archivos/setup_esp.ino" download>Inicializar módulo esp8266</a></li>
-					<li> <a href="Archivos/MongDBvsOracle.pdf" download>MongoDB vs Oracle</a></li>
-				</ul>
+						<li> <a href="Archivos/setup_esp.ino" download>Inicializar módulo esp8266</a></li>
+						<li> <a href="Archivos/MongDBvsOracle.pdf" download>MongoDB vs Oracle</a></li>
+					</ul>
+				</h4>
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">

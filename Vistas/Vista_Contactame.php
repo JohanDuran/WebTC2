@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,13 +18,16 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+			<h1 class="center">Contacto</h1>
 			<section class="border-shadaw">
-				<ul><h3>Para contactarnos:</h3> <br>
+			<h4>
+				<ul>
 					<li> <b>Correo:</b> Johan.durancerdas@gmail.com</li>
 					<li> <b>Celular:</b> 8443-1212</li>
 					<li> <b> Fax:</b> 2244-1234</li>
 					<li><b> Código postal:</b> 22322</li>
 				</ul>
+			</h4>
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">

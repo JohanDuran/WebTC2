@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,8 +18,11 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+			<h1 class="center">Cursos preferidos</h1>
 			<section class="border-shadaw">
-				Mis cursos preferidos son muchos, pero dentro de todos esos hay dos áreas que son las que me apasionan. La primera es seguridad y la segunda bases de datos. En el área de seguridad el curso de ensamblador fue genial, con el profesor Villa. Espero poder llevar un curso de pura seguridad con él. En el área de bases de datos, en la escuela se tiene excelentes profes, para BD I estuve con Alexandra, fue excelente, no se le puede pedir más. Al llegar a BD II fue con Elka y el conocimiento obtenido fue tremendo, actualmente sigo trabajando con ella en un proyecto y agradezco porque su experiencia y dedicación solamente trae beneficios para los que estén cerca de ella y aprovechen al máximo. Durante el último año he estado llevando cursos de desarrollo web por internet, ya que me gusta mucho y a pesar de que tenía pensado llevar este curso el próximo semestre, por cosas de la vida a Villa le cerraron el curso y por inclusión matriculé el presente curso, en el cual he recibido muy buenas referencias sobre el profesor Braulio y espero aprender mucho para ingresar en el ambiente laboral tan competitivo que existe hoy día.
+				<h4>
+					Mis cursos preferidos son muchos, pero dentro de todos esos hay dos áreas que son las que me apasionan. La primera es seguridad y la segunda bases de datos. En el área de seguridad el curso de ensamblador fue genial, con el profesor Villa. Espero poder llevar un curso de pura seguridad con él. En el área de bases de datos, en la escuela se tiene excelentes profes, para BD I estuve con Alexandra, fue excelente, no se le puede pedir más. Al llegar a BD II fue con Elka y el conocimiento obtenido fue tremendo, actualmente sigo trabajando con ella en un proyecto y agradezco porque su experiencia y dedicación solamente trae beneficios para los que estén cerca de ella y aprovechen al máximo. Durante el último año he estado llevando cursos de desarrollo web por internet, ya que me gusta mucho y a pesar de que tenía pensado llevar este curso el próximo semestre, por cosas de la vida a Villa le cerraron el curso y por inclusión matriculé el presente curso, en el cual he recibido muy buenas referencias sobre el profesor Braulio y espero aprender mucho para ingresar en el ambiente laboral tan competitivo que existe hoy día.
+				</h4>
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">

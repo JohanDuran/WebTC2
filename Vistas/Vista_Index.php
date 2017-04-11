@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,9 +18,12 @@
       	</div> 
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+			<h1 class="center">Bienvenidos</h1>
 			<section class="border-shadaw">
+				<h4>
 					Bienvenidos a la página personal de Johan Durán Cerdas, estudiante 
 					de la Universidad de Costa Rica. 
+				</h4>
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">

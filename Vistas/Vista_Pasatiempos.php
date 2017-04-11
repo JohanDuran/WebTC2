@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,12 +19,15 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+			<h1 class="center">Pasatiempos</h1>
 			<section class="border-shadaw">
+				<h4>
 					Mí principal pasatiempo (externo a la universidad) es jugar billard y fútbol. En momentos de estrés no hay nada que disfrute más que ir a comer y jugar algunas mesas de pool, la cuales terminan siendo horas de juego. <br>
 					Otro de mís pasatiempos es la electrónica, arduinos, sensores, raspberry pi etc etc. Actualmente tengo un sistema de riego controlado para un huerto de culantro y lechuga. Ya que me encanta la agricultura. 
 					<img src="Images/huerto.jpg" class="img-responsive images" alt="">					
 					Además, estoy desarrollando un GPS de bajo costo el cual espero tener listo en semana santa para hacer pruebas en mí moto. Para posteriormente crear algo más estable y utilizarlo en transporte público y privado.
 					<img src="Images/gps.jpg" class="img-responsive images" alt="">			
+				</h4>
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">

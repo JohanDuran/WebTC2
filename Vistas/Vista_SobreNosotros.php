@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,8 +18,10 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+			<h1 class="center">Sobre Nosotros</h1>
 			<section class="border-shadaw">
-				Este sitio es parte de la segunda tarea corta del curso <b>Desarrollos de aplicaciones para internet</b> el cual muestra información general acerca del creador. Fue desarrollado utilizando html, css y php para modelaje. Se utilizó Font Awesome para los iconos de redes sociales y boostrap como frameword de frontend.	
+			<h4>
+				Este sitio es parte de la segunda tarea corta del curso <b>Desarrollos de aplicaciones para internet</b> el cual muestra información general acerca del creador. Fue desarrollado utilizando html, css y php para modelaje. Se utilizó Font Awesome para los iconos de redes sociales y boostrap como frameword de frontend.</h4>	
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">

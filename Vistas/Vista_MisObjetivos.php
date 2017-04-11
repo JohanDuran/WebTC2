@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,9 +19,12 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+			<h1 class="center">Mis objetivos</h1>
 			<section class="border-shadaw">
+				<h4>
 					En el presente año 2017, mis objetivos por cumplir son muchos, ya que este es mí último año de carrera y espero obtener excelentes calificaciones para lograr conseguir un buen empleo. Uno de los objetivos más importantes para este año (además de concluir la carrera) es lograr finalizar una app y hardware que estoy desarrollando como proyecto personal. Además, estamos en las últimas etapas de escritura de un artículo sobre MongoDB el cual esperamos poder publicar. <br>En el mismo ambiente de MongoDB para la semana universitaria estaremos presentando un taller sobre el tema. <br>En octubre del año anterior en conjunto con otro compañero iniciamos labores con  un profesor de la escuela, donde se está creando una app y página web para muestrear aguas en el territorio nacional. En las próximas semanas esperamos tener listo el plan piloto e iniciar el proceso de capacitación. <br>
 					Uno de los principales objetivos de año es <b>lograr que le den un curso de seguridad o nube a Villa</b> ya que es mí ambiente preferido. <br>  Finalmente, para finales de año me gustaría ingresar a la empresa Intel ya que tienen una maestría del TEC que me llama mucho la atención, con lo cual podría trabajar y estudiar en el mismo lugar.
+				</h4>
 			</section>
 			</div>
 			<div class="col-md-4 hidden-xs hidden-sm">
