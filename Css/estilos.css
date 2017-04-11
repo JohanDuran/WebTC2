@@ -1,3 +1,6 @@
+body{
+	/* background-color: #FFFFFF!important; */
+}
 
 .footer{
 	background: black;
@@ -69,17 +72,11 @@
 	background-color:#ED4B37 ;
 }
 
-section{
-	background-color: #00294C;
-}
-
-aside{	
-	background-color: #2389EE;
-}
 
 .jumbotron{
-	background-color: #FFBB08!important;
-	text-align: center;
+ 	background: #ED4B37 url("../Images/jumbotron.png") center no-repeat!important; 
+	height: 300px;
+	/* text-align: center; */
 }
 
 header{
@@ -88,4 +85,11 @@ header{
 
 .navbar{
 	margin-bottom: 0px!important;
+}
+
+
+.border-shadaw{
+	-webkit-box-shadow: 1px 1px 6px 3px #A8A8A8;
+	box-shadow: 1px 1px 6px 3px #A8A8A8;
+	padding: 20px;
 }
